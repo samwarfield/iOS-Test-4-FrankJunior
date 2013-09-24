@@ -1,3 +1,1 @@
-Hello… Test…
-
-New information added
+Simple experiment building a iOS app to work with FrankJunior API
